@@ -1,27 +1,4 @@
-﻿  Graph.cpp
-c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\fl\x.h(28): warning C4005: 'WIN32': redefinición de macro
-  c:\users\danyh\documents\github\rbtree\rbtree\graph.cpp: note: vea la definición anterior de 'WIN32'
-c:\users\danyh\documents\github\rbtree\rbtree\graph.cpp(56): warning C4244: '=': conversión de '_Ty1' a 'int'; posible pérdida de datos
-          with
-          [
-              _Ty1=double
-          ]
-c:\users\danyh\documents\github\rbtree\rbtree\graph.cpp(57): warning C4244: '=': conversión de '_Ty1' a 'int'; posible pérdida de datos
-          with
-          [
-              _Ty1=double
-          ]
-  GUI.cpp
-c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\fl\x.h(28): warning C4005: 'WIN32': redefinición de macro
-  c:\users\danyh\documents\github\rbtree\rbtree\gui.cpp: note: vea la definición anterior de 'WIN32'
-c:\users\danyh\documents\github\rbtree\rbtree\gui.h(107): warning C4018: '<': no coinciden signed/unsigned
-c:\users\danyh\documents\github\rbtree\rbtree\gui.h(112): warning C4018: '<': no coinciden signed/unsigned
-c:\users\danyh\documents\github\rbtree\rbtree\gui.h(117): warning C4018: '<': no coinciden signed/unsigned
-c:\users\danyh\documents\github\rbtree\rbtree\graph.h(102): warning C4018: '<': no coinciden signed/unsigned
-  c:\users\danyh\documents\github\rbtree\rbtree\graph.h(102): note: durante la compilación de la función miembro de plantilla clase de 'Graph_lib::Vector_ref<Graph_lib::Button>::~Vector_ref(void)'
-  c:\users\danyh\documents\github\rbtree\rbtree\gui.h(97): note: vea la referencia a la creación de instancias de plantilla de función 'Graph_lib::Vector_ref<Graph_lib::Button>::~Vector_ref(void)' que se está compilando
-  c:\users\danyh\documents\github\rbtree\rbtree\gui.h(99): note: vea la referencia a la creación de instancias de plantilla clase de 'Graph_lib::Vector_ref<Graph_lib::Button>' que se está compilando
-  RBTree.cpp
+﻿  RBTree.cpp
 c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\fl\x.h(28): warning C4005: 'WIN32': redefinición de macro
   c:\users\danyh\documents\github\rbtree\rbtree\rbtree.cpp: note: vea la definición anterior de 'WIN32'
 c:\users\danyh\documents\github\rbtree\rbtree\gui.h(107): warning C4018: '<': no coinciden signed/unsigned
@@ -31,17 +8,4 @@ c:\users\danyh\documents\github\rbtree\rbtree\graph.h(102): warning C4018: '<': 
   c:\users\danyh\documents\github\rbtree\rbtree\graph.h(102): note: durante la compilación de la función miembro de plantilla clase de 'Graph_lib::Vector_ref<Graph_lib::Button>::~Vector_ref(void)'
   c:\users\danyh\documents\github\rbtree\rbtree\gui.h(97): note: vea la referencia a la creación de instancias de plantilla de función 'Graph_lib::Vector_ref<Graph_lib::Button>::~Vector_ref(void)' que se está compilando
   c:\users\danyh\documents\github\rbtree\rbtree\gui.h(99): note: vea la referencia a la creación de instancias de plantilla clase de 'Graph_lib::Vector_ref<Graph_lib::Button>' que se está compilando
-  Window.cpp
-c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\fl\x.h(28): warning C4005: 'WIN32': redefinición de macro
-  c:\users\danyh\documents\github\rbtree\rbtree\window.cpp: note: vea la definición anterior de 'WIN32'
-c:\users\danyh\documents\github\rbtree\rbtree\gui.h(107): warning C4018: '<': no coinciden signed/unsigned
-c:\users\danyh\documents\github\rbtree\rbtree\gui.h(112): warning C4018: '<': no coinciden signed/unsigned
-c:\users\danyh\documents\github\rbtree\rbtree\gui.h(117): warning C4018: '<': no coinciden signed/unsigned
-c:\users\danyh\documents\github\rbtree\rbtree\window.cpp(59): warning C4018: '<': no coinciden signed/unsigned
-c:\users\danyh\documents\github\rbtree\rbtree\window.cpp(61): warning C4018: '<': no coinciden signed/unsigned
-c:\users\danyh\documents\github\rbtree\rbtree\graph.h(102): warning C4018: '<': no coinciden signed/unsigned
-  c:\users\danyh\documents\github\rbtree\rbtree\graph.h(102): note: durante la compilación de la función miembro de plantilla clase de 'Graph_lib::Vector_ref<Graph_lib::Button>::~Vector_ref(void)'
-  c:\users\danyh\documents\github\rbtree\rbtree\gui.h(97): note: vea la referencia a la creación de instancias de plantilla de función 'Graph_lib::Vector_ref<Graph_lib::Button>::~Vector_ref(void)' que se está compilando
-  c:\users\danyh\documents\github\rbtree\rbtree\gui.h(99): note: vea la referencia a la creación de instancias de plantilla clase de 'Graph_lib::Vector_ref<Graph_lib::Button>' que se está compilando
-  Generando código...
   RBTree.vcxproj -> C:\Users\danyh\Documents\GitHub\RBTree\Debug\RBTree.exe
